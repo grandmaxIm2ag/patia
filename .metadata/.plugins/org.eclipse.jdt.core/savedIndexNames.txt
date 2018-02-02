@@ -1,23 +1,2 @@
 INDEX VERSION 1.126+/media/maxence/SD_MAXENCE/patia/.metadata/.plugins/org.eclipse.jdt.core
-3530540584.index
-813341167.index
-3539432263.index
-3883508318.index
-4056483145.index
-918338886.index
-3066711521.index
-2359322674.index
-502732891.index
-328422535.index
-1628687906.index
-1089239932.index
-925982370.index
-3512161136.index
-676842528.index
-2744878784.index
-3563194468.index
-3485262699.index
-427301248.index
-2253745042.index
-1701043047.index
-821608291.index
+1496424377.index

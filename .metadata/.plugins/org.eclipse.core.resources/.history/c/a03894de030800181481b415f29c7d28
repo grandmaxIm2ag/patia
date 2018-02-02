@@ -1,0 +1,11 @@
+package main;
+
+import sensor.Bumper;
+
+public class TestBumper {
+	Bumper b = new Bumper();
+	
+	public static void main(String[] args){
+		
+	}
+}

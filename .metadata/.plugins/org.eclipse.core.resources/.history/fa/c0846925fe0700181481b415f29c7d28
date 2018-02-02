@@ -1,0 +1,16 @@
+package main;
+
+import lejos.hardware.ev3.LocalEV3;
+import lejos.hardware.lcd.GraphicsLCD;
+import sensor.ColorSensor;
+
+public class TestColorSensor {
+	
+	public static void main(String[] args){
+		ColorSensor color = new ColorSensor();
+		GraphicsLCD screen = LocalEV3.get().getGraphicsLCD();
+		
+		//Calibre blue
+		
+	}
+}

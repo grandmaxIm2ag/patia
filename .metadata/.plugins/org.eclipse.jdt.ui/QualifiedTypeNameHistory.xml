@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3ColorSensor"/>
+<fullyQualifiedTypeName name="lejos.robotics.SampleProvider"/>
+<fullyQualifiedTypeName name="lejos.robotics.filter.MeanFilter"/>
+<fullyQualifiedTypeName name="lejos.hardware.lcd.LCD"/>
+<fullyQualifiedTypeName name="sensor.ColorSensor"/>
+<fullyQualifiedTypeName name="lejos.hardware.lcd.GraphicsLCD"/>
+<fullyQualifiedTypeName name="lejos.robotics.Color"/>
+<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3TouchSensor"/>
+<fullyQualifiedTypeName name="sensor.Bumper"/>
+<fullyQualifiedTypeName name="lejos.hardware.Button"/>
+<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3UltrasonicSensor"/>
+<fullyQualifiedTypeName name="lejos.hardware.port.Port"/>
+<fullyQualifiedTypeName name="lejos.hardware.ev3.LocalEV3"/>
+<fullyQualifiedTypeName name="sensor.UltraSon"/>
+</qualifiedTypeNameHistroy>
