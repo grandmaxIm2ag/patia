@@ -2,7 +2,7 @@ package motor;
 
 import java.util.Date;
 
-import org.r2d2.utils.R2D2Constants;
+import utils.R2D2Constants;
 
 import lejos.hardware.ev3.LocalEV3;
 import lejos.hardware.motor.EV3LargeRegulatedMotor;
@@ -14,7 +14,7 @@ import lejos.robotics.navigation.MoveListener;
 import lejos.robotics.navigation.MovePilot;
 import lejos.robotics.navigation.MoveProvider;
 
-public class Propulsion extends TImedMotor implements MoveListener{
+public class Propulsion extends TimedMotor implements MoveListener{
 
 	//chassis
 	private Wheel     left           = null;
