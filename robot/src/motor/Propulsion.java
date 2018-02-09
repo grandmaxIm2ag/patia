@@ -1,4 +1,4 @@
-package org.r2d2.motors;
+package motor;
 
 import java.util.Date;
 
