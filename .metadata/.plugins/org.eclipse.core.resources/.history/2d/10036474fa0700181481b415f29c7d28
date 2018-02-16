@@ -1,4 +1,0 @@
-package sensor;
-
-public class ColorSensor {
-	String CAPTEUR = "S4";
