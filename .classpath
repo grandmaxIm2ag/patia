@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="robot/TestBumper.jar"/>
 	<classpathentry kind="lib" path="robot/TestColorSensor.jar"/>
 	<classpathentry kind="lib" path="robot/TestUltraSon.jar"/>
-	<classpathentry kind="output" path="helloWorld/bin"/>
+	<classpathentry kind="lib" path="libs/pddl4j-3.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>

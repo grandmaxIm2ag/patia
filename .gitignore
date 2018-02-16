@@ -1,2 +1,5 @@
 leJOS_EV3_0.8.1-beta/
 .project
+/bin/
+*.class
+.classpath
