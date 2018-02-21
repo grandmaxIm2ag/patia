@@ -207,13 +207,11 @@ public class Propulsion extends TimedMotor implements MoveListener{
 		return running;
 	}
 
-	@Override
 	public void moveStarted(Move event, MoveProvider mp) {
 		running   = true;
 		startTime = event.getTimeStamp();
 	}
 
-	@Override
 	public void moveStopped(Move event, MoveProvider mp) {
 		running        = false;
 		stopTime       = event.getTimeStamp();

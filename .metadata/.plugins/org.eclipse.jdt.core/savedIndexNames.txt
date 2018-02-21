@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/media/maxence/SD_MAXENCE/cours/m1Informatique/S2/patia/.metadata/.plugins/org.eclipse.jdt.core

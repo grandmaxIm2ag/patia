@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3ColorSensor"/>
+<fullyQualifiedTypeName name="lejos.robotics.SampleProvider"/>
+<fullyQualifiedTypeName name="lejos.robotics.filter.MeanFilter"/>
+<fullyQualifiedTypeName name="lejos.hardware.lcd.LCD"/>
+<fullyQualifiedTypeName name="lejos.hardware.lcd.GraphicsLCD"/>
+<fullyQualifiedTypeName name="lejos.robotics.Color"/>
+<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3TouchSensor"/>
+<fullyQualifiedTypeName name="sensor.Bumper"/>
+<fullyQualifiedTypeName name="lejos.hardware.Button"/>
+<fullyQualifiedTypeName name="lejos.hardware.sensor.EV3UltrasonicSensor"/>
+<fullyQualifiedTypeName name="lejos.hardware.port.Port"/>
+<fullyQualifiedTypeName name="lejos.hardware.ev3.LocalEV3"/>
+<fullyQualifiedTypeName name="sensor.UltraSon"/>
+<fullyQualifiedTypeName name="vue.Screen"/>
+<fullyQualifiedTypeName name="vue.InputHandler"/>
+<fullyQualifiedTypeName name="motor.Graber"/>
+<fullyQualifiedTypeName name="sensor.ColorSensor"/>
+<fullyQualifiedTypeName name="controler.Calibrator"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+<fullyQualifiedTypeName name="utils.Palet"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

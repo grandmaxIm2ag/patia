@@ -1,14 +1,15 @@
 package motor;
 
+import lejos.*;
 import lejos.hardware.ev3.LocalEV3;
 import lejos.hardware.motor.EV3LargeRegulatedMotor;
 import lejos.hardware.port.Port;
 
 public class Graber extends TimedMotor{
 
-	public static final String PINCH = "D";
-	public final static int GRAB_CALIBRATE_SPEED = 300;
-	public final static int GRAB_RUNNING_SPEED = 600;
+	public static final String PINCH = "";
+	public final static int GRAB_CALIBRATE_SPEED = 50;
+	public final static int GRAB_RUNNING_SPEED = 50;
 	private EV3LargeRegulatedMotor graber = null;
 	private Port port                     = null;
 	private long startCalibrateOpen       = 0;
